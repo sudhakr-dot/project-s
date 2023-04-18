@@ -8,6 +8,12 @@ public class CurrencyExchangeServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CurrencyExchangeServiceApplication.class, args);
+		
+		
+		
+	}
+	public void wish(){
+	System.out.println("hello");
 	}
 
 }
